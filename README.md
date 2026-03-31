@@ -1,4 +1,10 @@
-Open Source Software Capstone Project
+# Open Source Software Capstone Project
+
+Student Name: Ketna Bajaj
+Registration Number: 24BCE10978
+Chosen Software: Git
+
+This repository contains the report and shell scripts for the Open Source Audit project.Open Source Software Capstone Project
 Student Name: Ketna Bajaj
 Registration Number: 24BCE10978
 Chosen Software: Git
