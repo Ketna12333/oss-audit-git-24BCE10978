@@ -1,7 +1,0 @@
-
-Open Source Manifesto
-Date: 31 March 2026
-
-I regularly use Git, which reminds me that open source is about Independence.
-In the future, I would like to build an educational coding platform and share it freely with the world.
-I believe knowledge grows stronger when it is shared openly and collaboratively.
